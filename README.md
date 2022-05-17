@@ -7,7 +7,7 @@
 
 
 ## About me
-#### Hi! I am Guillermo, Frontend Developer. I love and enjoy learning from anything and anyone :D
+#### I love and enjoy learning from anything and anyone :D
 #### I like topics such as: Programming, Email Marketing, UI/UX design, Art and Personal Growth, among others.
 
 
