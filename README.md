@@ -1,4 +1,4 @@
-# 🍉 Hi, there! I am Guillermo [Hai5e] 🦄
+# 🍉 Hi there! I am Guillermo [Hai5e] 🦄
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./images/hai5eLogo_darkBackground.svg">
