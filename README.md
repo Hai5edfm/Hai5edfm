@@ -2,7 +2,7 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./images/hai5eLogo_darkBackground.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./images/hai5eLogo_darkBackground.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://hai5e.com/haiseAssets/Digitales/1x/hai5eLogo_light-bg.png">
     <img width="700" heigth="225" alt="Hai5e brand logo - GuillermoRN" src="./images/hai5eLogo_darkBackground.svg">
   </picture>
 </div>
