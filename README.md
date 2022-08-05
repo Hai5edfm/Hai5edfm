@@ -7,15 +7,9 @@
   </picture>
 </div>
 
+I'm Frontend Developer, I've done projects with technologies such as React.js, Next.js, CSS3 and HTML5. Also I've been part of Platzi Master, intensive training program for developers. Where I were able of planning, developing and deploying actual and functional projects.
 
-#### I'm a self-taugh developer, I love to bring ideas to live and shape them until have amazing and detailed things people can find useful, feel comfortable with, through UX/UI design, and enjoy them.
-
-#### I like to learn a lot of things in different subjects, such as: 
- - Web development
- - UI design (I have a Platzi learning path completed)
- - Email marketing (Platzi learning path completed)
- - Personal and professional growth
-
+In Platzi Master I worked with a great team, being able of growing not only in technical skills terms, but also, in terms of soft skills as could be communication, teamwork and problem solving.
 
 ## Some of the projects I've worked
 
