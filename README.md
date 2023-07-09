@@ -1,4 +1,4 @@
-# 🍉 Hi there! I am Guillermo [Hai5e] 🦄
+# 🍉 Hi there! I am Guillermo [Hai5e]
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./images/hai5eLogo_darkBackground.svg">
@@ -7,9 +7,14 @@
   </picture>
 </div>
 
-I'm Frontend Developer, I've done projects with technologies such as React.js, Next.js, CSS3 and HTML5. Also I've been part of Platzi Master, intensive training program for developers. Where I were able of planning, developing and deploying actual and functional projects.
+I'm Frontend Developer with +1 year of laboral experience, as developer I've worked in projects with technologies such as React.js, Next.js, CSS3 and HTML5.
 
-In Platzi Master I worked with a great team, being able of growing not only in technical skills terms, but also, in terms of soft skills as could be communication, teamwork and problem solving.
+- 🌱 I’m currently learning: <br />
+Cypress for QA automation <br />
+Backend with nodeJS 
+
+- 👯 I’m looking to collaborate on: <br />
+Great projects with innovative technologies <br />
 
 ## Some of the projects I've worked
 
@@ -22,7 +27,7 @@ In Platzi Master I worked with a great team, being able of growing not only in t
 ---
 | | |
 |--|---|
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hai5edfm&theme=dark)](https://github.com/anuraghazra/github-readme-stats) | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hai5edfm&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats) |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hai5edfm&theme=dark&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats) | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hai5edfm&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats) |
 
 <h2 align="center"> Some technologies I use: </h2>
 
@@ -32,7 +37,7 @@ In Platzi Master I worked with a great team, being able of growing not only in t
 
 
 
-### Let's get in touch!
+### 📫 Let's get in touch!
 <div> 
   <a href="https://www.linkedin.com/in/guillermo-rosales-n%C3%BA%C3%B1ez-17b1b61b9" target="_blank">
     <img alt"" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img>
