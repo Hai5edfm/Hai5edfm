@@ -9,25 +9,19 @@
 
 I'm Frontend Developer with +1 year of laboral experience, as developer I've worked in projects with technologies such as React.js, Next.js, CSS3 and HTML5.
 
-- 🌱 I’m currently learning: <br />
-Cypress for QA automation <br />
-Backend with nodeJS 
+<div style="display: flex">
+    
+  - 🌱 I’m currently learning: <br />
+  Cypress for QA automation <br />
+  Backend with nodeJS 
+  
+  - 👯 I’m looking to collaborate on: <br />
+  Great projects with innovative technologies <br />
+    
 
-- 👯 I’m looking to collaborate on: <br />
-Great projects with innovative technologies <br />
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hai5edfm&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Some of the projects I've worked
-
-| Deployed| Repository | technologies | |
-| --- | --- | -- | -- |
-| [Studio Ghibli Tacker](https://ghibli-tracker.c10-se.com/)| https://github.com/C10-Ghibli-s/FE-Studio-Ghibli-Tracker | <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <!-- React -->   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" /> <!-- SASS --> <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" /> <!-- Jest --> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <!-- Node --> <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/> <!-- NestJS --> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> <!-- PostgreSQL --> | <img width="500" src="https://user-images.githubusercontent.com/73669701/166158870-9e479615-9b5c-4078-a6c6-d16b7e313e52.png"/> |
-| [Ghibli BackOffice](https://backoffice.c10-se.com/login) | https://github.com/C10-Ghibli-s/FE-Backoffice |   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <!-- NextJS -->   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <!-- Typescript --> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <!-- Tailwind --> <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white"/> <!-- Graphql --> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> <!-- MySQL --> | <img width="500" src="https://hai5e.com/assets/images/portfolio/projects/ghibli-backoffice.png" /> |
-
-
----
-| | |
-|--|---|
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hai5edfm&theme=dark&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats) | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hai5edfm&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats) |
+</div>
 
 <h2 align="center"> Some technologies I use: </h2>
 
