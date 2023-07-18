@@ -13,7 +13,8 @@ I'm Frontend Developer with +2 years of experience, as developer I've worked in 
     
   - 🌱 I’m currently learning: <br />
   Cypress for QA automation <br />
-  Backend with nodeJS 
+  Angular [Frontend] <br />
+  Backend with nestJS 
   
   - 👯 I’m looking to collaborate on: <br />
   Great projects with innovative technologies <br />
