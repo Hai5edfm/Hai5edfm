@@ -1,4 +1,4 @@
-# 🍉 Hi there! I'm Guillermo | Fullstack Developer |
+# 🍉 Hi there! I'm Guillermo (Hai5e) | Fullstack Developer |
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./images/hai5eLogo_darkBackground.svg">
@@ -7,7 +7,7 @@
   </picture>
 </div>
 
-I'm Frontend Developer with +2 years of experience, as developer I've worked in projects with technologies such as React.js, Next.js, CSS3 and HTML5. Also, using technologies for testing as could be Cypress & Jest.
+Frontend Developer with +2 years of experience, as developer I've worked in projects with technologies such as React.js, Next.js, CSS3 and HTML5. Also, using technologies for testing as could be Cypress & Jest.
 
 <div style="display: flex">
     
