@@ -1,4 +1,4 @@
-# 🍉 Hi there! I'm Guillermo (Hai5e) | Fullstack Developer |
+<h1 align="center">🍉 Guillermo [ Fullstack Developer ]</h1>
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./images/hai5eLogo_darkBackground.svg">
